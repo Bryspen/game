@@ -1,0 +1,15 @@
+html {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #5887a7;
+}
+/* style.css */
+
+/* Reset default styles */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Add your custom styles here */
